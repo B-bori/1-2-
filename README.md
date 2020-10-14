@@ -1,1 +1,1 @@
-## Lecture codes from the class, 1-2 통계적기계학습이론기초
+## 1학년 2학기 통계적기계학습이론기초 코드필기
